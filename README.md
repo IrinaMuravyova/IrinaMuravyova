@@ -15,11 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=irinamuravyova.irinamuravyova&"  />
-</div>
-
-###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
