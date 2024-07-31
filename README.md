@@ -25,16 +25,19 @@
 
 ###
 
-<h3 align="left">🛠 Мой стэк технологий:</h3>
+<h3 align="left">🛠 Мой стэк технологий:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo"  />
+</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+<h4>
+<p align="left"> - Swift</p>
+<p align="left"> - UIKit</p>
+<p align="left"> - SwiftUI</p>
+<p align="left"> - Переходы/ передача данных между экранами</p>
+</h4>
 
 ###
 
