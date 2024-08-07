@@ -37,6 +37,8 @@
 <p align="left"> - UIKit</p>
 <p align="left"> - SwiftUI</p>
 <p align="left"> - Переходы/ передача данных между экранами</p>
+<p align="left"> - Заливка градиентом</p>
+<p align="left"> - MVC</p>
 </h4>
 
 ###
