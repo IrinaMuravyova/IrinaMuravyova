@@ -39,6 +39,8 @@
 <p align="left"> - Переходы/ передача данных между экранами</p>
 <p align="left"> - Заливка градиентом</p>
 <p align="left"> - MVC</p>
+<p align="left"> - TableView</p>
+<p align="left"> - Кастомизация ячеек таблицы</p>
 </h4>
 
 ###
