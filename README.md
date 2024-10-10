@@ -41,6 +41,7 @@
 <p align="left"> - MVC</p>
 <p align="left"> - TableView</p>
 <p align="left"> - Кастомизация ячеек таблицы</p>
+<p align="left"> - Синглтоны</p>
 </h4>
 
 ###
