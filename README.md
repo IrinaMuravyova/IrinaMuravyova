@@ -42,6 +42,8 @@
 <p align="left"> - TableView</p>
 <p align="left"> - Кастомизация ячеек таблицы</p>
 <p align="left"> - Синглтоны</p>
+<p align="left"> - Жизненный цикл View Controller</p>
+<p align="left"> - Жизненный цикл приложения</p>
 </h4>
 
 ###
