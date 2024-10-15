@@ -45,7 +45,7 @@
 <p align="left"> - Жизненный цикл View Controller</p>
 <p align="left"> - Жизненный цикл приложения</p>
 <p align="left"> - ARC</p>
-<p align="left"> - работа с панелью дебаггинга</p>
+<p align="left"> - Pабота с панелью дебаггинга</p>
 <p align="left"> - Retain Cycles</p>
 </h4>
 
