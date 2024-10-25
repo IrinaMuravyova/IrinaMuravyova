@@ -42,11 +42,17 @@
 <p align="left"> - TableView</p>
 <p align="left"> - Кастомизация ячеек таблицы</p>
 <p align="left"> - Синглтоны</p>
+<p align="left"> - Дженерики</p>  
 <p align="left"> - Жизненный цикл View Controller</p>
 <p align="left"> - Жизненный цикл приложения</p>
 <p align="left"> - ARC</p>
 <p align="left"> - Pабота с панелью дебаггинга</p>
 <p align="left"> - Retain Cycles</p>
+<p align="left"> - CoreAnimation</p>
+<p align="left"> - CocoaPods</p>
+<p align="left"> - SPM</p>
+<p align="left"> - URLSession</p>
+<p align="left"> - JSON</p>
 </h4>
 
 ###
