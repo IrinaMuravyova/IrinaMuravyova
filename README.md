@@ -39,7 +39,7 @@
 <p align="left"> - Переходы/ передача данных между экранами</p>
 <p align="left"> - Заливка градиентом</p>
 <p align="left"> - MVC</p>
-<p align="left"> - TableView</p>
+<p align="left"> - TableView, CollectionView</p>
 <p align="left"> - Кастомизация ячеек таблицы</p>
 <p align="left"> - Синглтоны</p>
 <p align="left"> - Дженерики</p>  
@@ -53,6 +53,7 @@
 <p align="left"> - SPM</p>
 <p align="left"> - URLSession</p>
 <p align="left"> - JSON</p>
+<p align="left"> - GCD</p>
 </h4>
 
 ###
