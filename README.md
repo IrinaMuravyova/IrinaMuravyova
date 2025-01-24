@@ -31,25 +31,22 @@
 
 <h4>
 <p align="left"> - Swift</p>
-<p align="left"> - UIKit</p>
-<p align="left"> - SwiftUI</p>
+<p align="left"> - UIKit, SwiftUI</p>
 <p align="left"> - Переходы/ передача данных между экранами</p>
 <p align="left"> - Заливка градиентом</p>
-<p align="left"> - MVC</p>
+<p align="left"> - Pабота с панелью дебаггинга</p>
+<p align="left"> - MVC, MVVM</p>
 <p align="left"> - TableView, CollectionView</p>
 <p align="left"> - Кастомизация ячеек таблицы</p>
-<p align="left"> - Синглтоны</p>
-<p align="left"> - Дженерики</p>  
+<p align="left"> - Синглтоны, Дженерики</p> 
 <p align="left"> - Жизненный цикл View Controller</p>
 <p align="left"> - Жизненный цикл приложения</p>
 <p align="left"> - ARC</p>
-<p align="left"> - Pабота с панелью дебаггинга</p>
 <p align="left"> - Retain Cycles</p>
 <p align="left"> - CoreAnimation</p>
-<p align="left"> - CocoaPods</p>
-<p align="left"> - SPM</p>
-<p align="left"> - URLSession</p>
+<p align="left"> - CocoaPods, SPM</p>
 <p align="left"> - JSON</p>
+<p align="left"> - URLSession</p>
 <p align="left"> - GCD</p>
 </h4>
 
